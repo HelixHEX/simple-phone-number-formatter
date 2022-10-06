@@ -40,12 +40,12 @@ This is the folder structure we set up for you:
 
 ```txt
 /src
-  index.tsx       # EDIT THIS
+  index.tsx       
 /test
-  blah.test.tsx   # EDIT THIS
+  phone_number.test.tsx   
 .gitignore
 package.json
-README.md         # EDIT THIS
+README.md         
 tsconfig.json
 ```
 
